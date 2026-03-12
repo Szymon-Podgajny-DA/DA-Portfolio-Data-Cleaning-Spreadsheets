@@ -1,4 +1,4 @@
-# DA-Portfolio-Data-Cleaning-Spreadsheets
+# Simple-Data-Cleaning-Spreadsheets
 
 # 🧹 Cleaning Spreadsheet Data for Analysis
 
