@@ -18,9 +18,12 @@ The steps are simple on purpose so a recruiter can quickly see my practical spre
 
 - `data_cleaned.csv` – final cleaned version of the dataset, exported from the spreadsheet.
 - `data_dirty.csv` – dirty version of the dataset, imported to the spreadsheet.
-- `screenshot_data_errors.png` – examples of errors like blank rows/cells, whitespace highlighted.  
-- `screenshot_data_cleaned.png` – screenshot of spreadsheet after removing errors. 
-- `screenshot_transpose.png` – example of transposed data layout.  
+- `screenshot_data_errors.png` – examples of errors like blank rows/cells, whitespace highlighted.
+  ![screenshot_data_errors](https://github.com/Szymon-Podgajny-DA/DA-Portfolio-Data-Cleaning-Spreadsheets/blob/main/screenshot_data_errors.png)
+- `screenshot_data_cleaned.png` – screenshot of spreadsheet after removing errors.
+  ![screenshot_data_cleaned](https://github.com/Szymon-Podgajny-DA/DA-Portfolio-Data-Cleaning-Spreadsheets/blob/main/screenshot_data_cleaned.png)
+- `screenshot_transpose.png` – example of transposed data layout.
+  ![screenshot_transpose](https://github.com/Szymon-Podgajny-DA/DA-Portfolio-Data-Cleaning-Spreadsheets/blob/main/screenshot_transpose.png)
 
 ---
 
